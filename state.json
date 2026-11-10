@@ -1,6 +1,6 @@
 {
-  "last_post_date": "2026-11-10",
-  "last_A_time": "10:00",
+  "last_post_date": "2026-11-11",
+  "last_A_time": "18:00",
   "themes": [
     {"date": "2026-11-05", "type": "-", "theme": "不安を書き出す"},
     {"date": "2026-11-07", "type": "-", "theme": "マーカーを引かない"},
@@ -10,7 +10,9 @@
     {"date": "2026-11-09", "type": "-", "theme": "テスト前に徹夜しない"},
     {"date": "2026-11-09", "type": "-", "theme": "眠いなら30分昼寝"},
     {"date": "2026-11-10", "type": "A", "theme": "黙読と音読（音読77%>黙読65%）", "time": "10:00", "video": "videos/2026-11-10/fukuro_ondoku.mp4"},
-    {"date": "2026-11-10", "type": "B", "theme": "習慣化は21日か66日か", "time": "18:00", "video": "videos/2026-11-10/fukuro_shukan66.mp4"}
+    {"date": "2026-11-10", "type": "B", "theme": "習慣化は21日か66日か", "time": "18:00", "video": "videos/2026-11-10/fukuro_shukan66.mp4", "result": "保留（11/11時点で未反映）"},
+    {"date": "2026-11-11", "type": "A", "theme": "座ったままと歩きながら（歩くとアイデア増）", "time": "18:00", "video": "videos/2026-11-11/fukuro_aruku.mp4"},
+    {"date": "2026-11-11", "type": "B", "theme": "第一印象は0.1秒か10秒か", "time": "10:00", "video": "videos/2026-11-11/fukuro_inshou.mp4"}
   ],
   "rejected_themes": ["授業中のパソコン（特定すぎる）"]
 }
