@@ -1,6 +1,6 @@
 {
-  "last_post_date": "2026-11-12",
-  "last_A_time": "10:00",
+  "last_post_date": "2026-11-13",
+  "last_A_time": "18:00",
   "themes": [
     {
       "date": "2026-11-05",
@@ -64,7 +64,8 @@
       "type": "B",
       "theme": "第一印象は0.1秒か10秒か",
       "time": "10:00",
-      "video": "videos/2026-11-11/fukuro_inshou.mp4"
+      "video": "videos/2026-11-11/fukuro_inshou.mp4",
+      "result": "採用（暫定。11/12分析：再生116>109、3秒視聴40.6%>38.7%、平均視聴6.46>5.34秒、リーチは101<106、n=1）"
     },
     {
       "date": "2026-11-12",
@@ -79,6 +80,20 @@
       "theme": "ふくろうの首は180度か270度か（動物雑学）",
       "time": "18:00",
       "video": "videos/2026-11-12/fukuro_kubi270.mp4"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "A",
+      "theme": "ジムに行く人が多いのは週の始めか終わりか（週の始め+33%、fresh start effect）",
+      "time": "18:00",
+      "video": "videos/2026-11-13/fukuro_getsuyou.mp4"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "B",
+      "theme": "爪が速く伸びるのは手か足か（体のしくみ）",
+      "time": "10:00",
+      "video": "videos/2026-11-13/fukuro_tsume.mp4"
     }
   ],
   "rejected_themes": [
