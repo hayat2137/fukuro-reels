@@ -1,6 +1,6 @@
 {
-  "last_post_date": "2026-11-14",
-  "last_A_time": "10:00",
+  "last_post_date": "2026-11-15",
+  "last_A_time": "18:00",
   "themes": [
     {
       "date": "2026-11-05",
@@ -94,7 +94,8 @@
       "type": "B",
       "theme": "爪が速く伸びるのは手か足か（体のしくみ）",
       "time": "10:00",
-      "video": "videos/2026-11-13/fukuro_tsume.mp4"
+      "video": "videos/2026-11-13/fukuro_tsume.mp4",
+      "result": "採用（暫定。11/14分析：3秒視聴44.8%>31.1%、平均視聴7.58>5.98秒、再生115<123、リーチ105<107、n=1）"
     },
     {
       "date": "2026-11-14",
@@ -109,6 +110,20 @@
       "theme": "1万円もらう喜びとなくす悲しみ（損失回避、お金の心理）",
       "time": "18:00",
       "video": "videos/2026-11-14/fukuro_sontoku.mp4"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "A",
+      "theme": "脳を使っているのは10%かほぼ全部か（体重の約2%で約20%のエネルギー、Raichle & Gusnard 2002）",
+      "time": "18:00",
+      "video": "videos/2026-11-15/fukuro_nou10.mp4"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "B",
+      "theme": "料理が2倍の量なら食べる量は増えるか（+30%、Rolls 2002、食べ方の心理）",
+      "time": "10:00",
+      "video": "videos/2026-11-15/fukuro_oomori.mp4"
     }
   ],
   "rejected_themes": [
