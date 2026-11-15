@@ -1,6 +1,6 @@
 {
-  "last_post_date": "2026-11-15",
-  "last_A_time": "18:00",
+  "last_post_date": "2026-11-16",
+  "last_A_time": "10:00",
   "themes": [
     {
       "date": "2026-11-05",
@@ -109,7 +109,8 @@
       "type": "B",
       "theme": "1万円もらう喜びとなくす悲しみ（損失回避、お金の心理）",
       "time": "18:00",
-      "video": "videos/2026-11-14/fukuro_sontoku.mp4"
+      "video": "videos/2026-11-14/fukuro_sontoku.mp4",
+      "result": "保留（11/15分析：平均視聴6.95>6.40秒、見られた割合27.2>25.8%だが、3秒視聴48.5%<50.0%、再生112<118、リーチ103<108、n=1）"
     },
     {
       "date": "2026-11-15",
@@ -124,6 +125,20 @@
       "theme": "料理が2倍の量なら食べる量は増えるか（+30%、Rolls 2002、食べ方の心理）",
       "time": "10:00",
       "video": "videos/2026-11-15/fukuro_oomori.mp4"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "A",
+      "theme": "甘さを感じるのは舌の先か舌全体か（舌の地図は1901年論文の読み違い、Hänig/Boring/Collings 1974）",
+      "time": "10:00",
+      "video": "videos/2026-11-16/fukuro_shita.mp4"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "B",
+      "theme": "寝不足を取り戻すのは週末の寝だめか毎日の睡眠か（寝だめ組もインスリンの効き9〜27%悪化、Depner 2019、睡眠のしくみ）",
+      "time": "18:00",
+      "video": "videos/2026-11-16/fukuro_nedame.mp4"
     }
   ],
   "rejected_themes": [
