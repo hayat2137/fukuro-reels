@@ -1,6 +1,6 @@
 {
-  "last_post_date": "2026-11-22",
-  "last_A_time": "10:00",
+  "last_post_date": "2026-11-23",
+  "last_A_time": "18:00",
   "themes": [
     {
       "date": "2026-11-05",
@@ -200,7 +200,7 @@
       "theme": "地球が太陽に近いのは夏か冬か（冬、1月に約500万km近い、季節は地軸の傾き、Space.com 2025／Scientific American 2023、宇宙・天文）",
       "time": "18:00",
       "video": "videos/2026-11-20/fukuro_kinjitsuten.mp4",
-      "result": "保留（11/21分析：公開約26時間で再生52・リーチ40と反映途中。3秒視聴46.9%≒47.7%、平均視聴4.52<6.67秒。次回再判定）"
+      "result": "採用（暫定。11/22再判定：再生130>123、リーチ117>106、3秒視聴48.3%>47.7%、平均視聴7.89>6.67秒と全指標で上回る、n=1、18時台）"
     },
     {
       "date": "2026-11-21",
@@ -214,21 +214,38 @@
       "type": "B",
       "theme": "空が青いのは海がうつるからか光が散るからか（光の散乱、紫は赤の9倍以上散らばる、Live Science 2023／Big Think、色・光のしくみ）",
       "time": "10:00",
-      "video": "videos/2026-11-21/fukuro_sora.mp4"
+      "video": "videos/2026-11-21/fukuro_sora.mp4",
+      "result": "採用（暫定。11/22分析：3秒視聴50.0%>36.1%、平均視聴8.05>6.62秒、見られた割合31.2>27.1%、再生110<124・リーチ101<107。予約はMetricool上限エラーで失敗し、2本とも昼ごろ手動投稿、n=1）"
     },
     {
       "date": "2026-11-22",
       "type": "A",
       "theme": "3秒ルール（落とした食べ物はセーフか、1秒未満でも菌がうつる・2,560回の測定・スイカ最多グミ最少、Miranda & Schaffner 2016 AEM／ラトガース大学）",
       "time": "10:00",
-      "video": "videos/2026-11-22/fukuro_3byou.mp4"
+      "video": "videos/2026-11-22/fukuro_3byou.mp4",
+      "note": "未投稿（Metricool「You have reached your Metricool account limit.」エラー）"
     },
     {
       "date": "2026-11-22",
       "type": "B",
       "theme": "ナポレオンの背は低いか（約168〜170cmで当時の平均並み、護衛と英国の風刺画で低いイメージ、Britannica、歴史の言い伝え）",
       "time": "18:00",
-      "video": "videos/2026-11-22/fukuro_napoleon.mp4"
+      "video": "videos/2026-11-22/fukuro_napoleon.mp4",
+      "note": "未投稿（Metricool「You have reached your Metricool account limit.」エラー）"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "A",
+      "theme": "飲み込んだガムは7年お腹に残るか（残らない、消化されず便と出る、胃は食後30分〜2時間で空に、Mayo Clinic 2025／Duke Health 2013）",
+      "time": "18:00",
+      "video": "videos/2026-11-23/fukuro_gum.mp4"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "B",
+      "theme": "23人で誕生日が同じ2人がいる確率は1割か5割か（約50.7%、2人の組は253組、誕生日のパラドックス、Australian Chief Scientist／Scientific American、数学・確率）",
+      "time": "10:00",
+      "video": "videos/2026-11-23/fukuro_tanjoubi.mp4"
     }
   ],
   "rejected_themes": [
