@@ -42,6 +42,8 @@
 - media [動画URL]、text = キャプション全文（VOICEVOX:ちび式じい のクレジット必須）、autoPublish true、draft false
 - BGM: instagramData.audioConfiguration {"audioId":"<BGM候補の検索語>", "audioVolume":15, "videoVolume":100}。候補が複数返ったら合う曲の数字IDで再試行。アカウント条件などで拒否されたら audioConfiguration を外して予約し、そのことを報告に書く
 
+- Metricool の「You have reached your Metricool account limit.」エラーは既知。ユーザーが手動で公開しているので、問題として報告・通知しない（予約は今まで通り入れる）。分析では IGRE02 の実際の投稿時刻を使う
+
 ## 7. 記録と報告
 - 「投稿ネタ_<対象日>」ドキュメントを作る（insta-neta スキルの出力形式。どちらがA/Bか、何時投稿かを明記）
 - `state.json` を更新（last_post_date、last_A_time、themes に2本追加。B の判定結果が出たら該当行に result を追記）し push
