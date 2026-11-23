@@ -1,6 +1,6 @@
 {
-  "last_post_date": "2026-11-23",
-  "last_A_time": "18:00",
+  "last_post_date": "2026-11-24",
+  "last_A_time": "10:00",
   "themes": [
     {
       "date": "2026-11-05",
@@ -223,7 +223,7 @@
       "theme": "3秒ルール（落とした食べ物はセーフか、1秒未満でも菌がうつる・2,560回の測定・スイカ最多グミ最少、Miranda & Schaffner 2016 AEM／ラトガース大学）",
       "time": "10:00",
       "video": "videos/2026-11-22/fukuro_3byou.mp4",
-      "note": "未投稿（Metricool「You have reached your Metricool account limit.」エラー）"
+      "note": "予約はMetricool「account limit」エラー。その後手動投稿（3秒ルール12:58、ナポレオン18:05）"
     },
     {
       "date": "2026-11-22",
@@ -231,21 +231,38 @@
       "theme": "ナポレオンの背は低いか（約168〜170cmで当時の平均並み、護衛と英国の風刺画で低いイメージ、Britannica、歴史の言い伝え）",
       "time": "18:00",
       "video": "videos/2026-11-22/fukuro_napoleon.mp4",
-      "note": "未投稿（Metricool「You have reached your Metricool account limit.」エラー）"
+      "note": "予約はMetricool「account limit」エラー。その後手動投稿（3秒ルール12:58、ナポレオン18:05）",
+      "result": "保留（11/23分析：3秒視聴40.0%>37.6%、平均視聴7.41>4.61秒、見られた割合30.5>17.9%だが、再生18・リーチ14と未反映の可能性。両方手動投稿で時刻ずれ、n=1）"
     },
     {
       "date": "2026-11-23",
       "type": "A",
       "theme": "飲み込んだガムは7年お腹に残るか（残らない、消化されず便と出る、胃は食後30分〜2時間で空に、Mayo Clinic 2025／Duke Health 2013）",
       "time": "18:00",
-      "video": "videos/2026-11-23/fukuro_gum.mp4"
+      "video": "videos/2026-11-23/fukuro_gum.mp4",
+      "note": "未投稿（Metricool「You have reached your Metricool account limit.」エラー。11/23 20:44時点でデータなし）"
     },
     {
       "date": "2026-11-23",
       "type": "B",
       "theme": "23人で誕生日が同じ2人がいる確率は1割か5割か（約50.7%、2人の組は253組、誕生日のパラドックス、Australian Chief Scientist／Scientific American、数学・確率）",
       "time": "10:00",
-      "video": "videos/2026-11-23/fukuro_tanjoubi.mp4"
+      "video": "videos/2026-11-23/fukuro_tanjoubi.mp4",
+      "note": "未投稿（Metricool「You have reached your Metricool account limit.」エラー。11/23 20:44時点でデータなし）"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "A",
+      "theme": "ニンジンを食べると夜の目はよくなるか（変わらない、ビタミンAが足りていれば効果なし、1940年ごろ戦争中のイギリスで広まった・本当はレーダー、Smithsonian／Live Science 2020）",
+      "time": "10:00",
+      "video": "videos/2026-11-24/fukuro_ninjin.mp4"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "B",
+      "theme": "スマホの電池は使い切ってからかこまめに充電か（こまめに、NMCで毎回使い切り約300回・2割ごと約2,000回、Battery University BU-808/BU-415、テクノロジー・家電の常識）",
+      "time": "18:00",
+      "video": "videos/2026-11-24/fukuro_juuden.mp4"
     }
   ],
   "rejected_themes": [
