@@ -1,6 +1,6 @@
 {
-  "last_post_date": "2026-11-25",
-  "last_A_time": "18:00",
+  "last_post_date": "2026-11-26",
+  "last_A_time": "10:00",
   "themes": [
     {
       "date": "2026-11-05",
@@ -257,7 +257,7 @@
       "theme": "ニンジンを食べると夜の目はよくなるか（変わらない、ビタミンAが足りていれば効果なし、1940年ごろ戦争中のイギリスで広まった・本当はレーダー、Smithsonian／Live Science 2020）",
       "time": "10:00",
       "video": "videos/2026-11-24/fukuro_ninjin.mp4",
-      "note": "予約はMetricool「account limit」エラー。11/24 20:44時点でデータなし"
+      "note": "手動で10:04に公開。11/25 20:44時点で再生11・リーチ10と反映途中の可能性"
     },
     {
       "date": "2026-11-24",
@@ -265,21 +265,38 @@
       "theme": "スマホの電池は使い切ってからかこまめに充電か（こまめに、NMCで毎回使い切り約300回・2割ごと約2,000回、Battery University BU-808/BU-415、テクノロジー・家電の常識）",
       "time": "18:00",
       "video": "videos/2026-11-24/fukuro_juuden.mp4",
-      "note": "予約はMetricool「account limit」エラー。11/24 20:44時点でデータなし"
+      "note": "手動で19:06に公開（予約はaccount limitエラー）",
+      "result": "保留（11/25分析：同日のA（ニンジン）が再生11で反映途中のため比較不可。期間平均比では3秒視聴31.4%<44.0%、平均視聴5.79<6.86秒、見られた割合20.2<27.6%。28.7秒と長い、n=1）"
     },
     {
       "date": "2026-11-25",
       "type": "A",
       "theme": "傷が早く治るのは乾かすかうるおすか（うるおす、ブタの皮ふの浅い傷でフィルムでおおうと早く治った、乾くとかさぶたの下を進む、Winter 1962 Nature／Zuhaili 2010 PRS／Junker 2013）",
       "time": "18:00",
-      "video": "videos/2026-11-25/fukuro_kizu.mp4"
+      "video": "videos/2026-11-25/fukuro_kizu.mp4",
+      "note": "予約はMetricool「account limit」エラー。11/25 20:44時点でデータ未反映"
     },
     {
       "date": "2026-11-25",
       "type": "B",
       "theme": "いちばん小さい都道府県は香川か大阪か（香川1,876.86km²・大阪1,905.34km²、1988年まで大阪が最小、国土地理院 令和6年／共同通信2025、旅・地理）",
       "time": "10:00",
-      "video": "videos/2026-11-25/fukuro_kagawa.mp4"
+      "video": "videos/2026-11-25/fukuro_kagawa.mp4",
+      "note": "予約はMetricool「account limit」エラー。11/25 20:44時点でデータ未反映"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "A",
+      "theme": "ビタミンCで風邪は防げるか（防げない、29の実験・約1万1千人でかかる割合100対97、かかった後に飲んでも効果がはっきりしない、Hemilä & Chalker 2013 Cochrane）",
+      "time": "10:00",
+      "video": "videos/2026-11-26/fukuro_vitaminc.mp4"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "B",
+      "theme": "「役不足」の意味は役が軽いか力不足か（役が軽い、正しく答えた人41.6%・反対の意味51.0%、文化庁 国語に関する世論調査 平成24年度、言葉の意味・誤用）",
+      "time": "18:00",
+      "video": "videos/2026-11-26/fukuro_yakubusoku.mp4"
     }
   ],
   "rejected_themes": [
